@@ -19,31 +19,38 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              It all started with a passion to mathematics, computer science, and how technology works… 🤷‍♂️
+              My journey began with a strong foundation in engineering, data analysis, and strategic consulting. 🌱
               <br />
-              <br />I am currently studying
+              <br />I am currently pursuing
               <i>
-                <b className="purple"> Generalist engineering </b>
+                <b className="purple"> a degree in Generalist Engineering at Ecole Centrale Casablanca </b>
               </i>
               <br />
               <br />
-              My field of Interest's are &nbsp;
+              My fields of interest include &nbsp;
               <i>
-                <b className="purple"> Consulting, AI engineering, Data analytics, and Data scrapping, </b>
-                also in areas related to{" "}
+                <b className="purple"> Market Strategy Consulting, Data Analytics, Business Intelligence, and Digital Innovation, </b>
+                with a keen interest in{" "}
                 <b className="purple">
-                  building Web Technologies and products.
+                  AI-driven solutions and data visualization.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for <b className="purple">UX/UI</b> and
-              <i>
+            I am also passionate about applying data-driven approaches to improve <b className="purple">decision-making</b> and leveraging <i>
+              <b className="purple">
+                {" "}
+                innovative technologies
+              </b>
+            </i> to solve complex challenges.
+
+              I am also passionate about applying data-driven approaches to improve <b className="purple">decision-making</b> and leveraging <i>
                 <b className="purple">
                   {" "}
-                  Graphic design.
+                  innovative technologies to solve complex challenges.
                 </b>
-              </i>
+              </i> 
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -80,9 +87,19 @@ function Home2() {
                   <AiOutlineTwitter />
                 </a>
               </li>
+             <li className="social-icons">
+                <a
+                  href="https://github.com/ikramehafsi" // Update with her GitHub profile
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/badreddine-saadioui/"
+                  href="https://www.linkedin.com/in/ikrame-hafsi/" // Correct LinkedIn profile
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -90,16 +107,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/prepakid"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+
             </ul>
           </Col>
         </Row>
