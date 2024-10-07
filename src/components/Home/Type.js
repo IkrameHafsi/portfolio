@@ -6,8 +6,11 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Ex-change Generalist Engineering Student at Ecole Centrale de Lyon",
-          "Ingénieur Généraliste",
+          "Data Analyst & Business Intelligence Enthusiast",
+          "Consultant en Stratégie de Marché",
+          "Ingénieur Généraliste en Formation",
+          "Power BI Specialist",
+          "AI & Digital Innovation Enthusiast",
         ],
         autoStart: true,
         loop: true,
